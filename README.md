@@ -21,7 +21,7 @@
 <p><img align="left" margin-top="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lavanmetta&show_icons=true&locale=en&layout=compact" alt="lavanmetta" />
 </p> 
 
-<div align="left" ></div>
+<div align="left" >......</div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavanmetta&show_icons=true&locale=en" alt="lavanmetta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanmetta&" alt="lavanmetta" /></p>
