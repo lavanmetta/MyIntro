@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 💬 Ask me about **react html css**
+- 💬 Ask me about **React HTML CSS**
 
-- 📫 How to reach me **lavanmetta111@gmail.com**
+- 📫 How to reach me **lavanmetta@gmail.com**
 
 
 
