@@ -63,3 +63,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavanmetta&show_icons=true&locale=en&theme=radical" alt="lavanmetta" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanmetta&&theme=radical" alt="lavanmetta" /></p>
+
+
+<img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
