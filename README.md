@@ -67,12 +67,11 @@
 <div>
 <p align="left">  <img width="320"  align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=a8o4woci8zkcozjqg0l63257g" alt="spotify" /> </p>
  <img  align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="320" height="260"/>
- 
 </div>
+
 
 <p>&nbsp; <hr/> </p>
-
-<div>
+<hr/>
 <!-- <img align="center" src="https://github.com/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/> -->
  <img  align="center" src="https://media.giphy.com/media/ohONS2y8GTDoI/giphy.gif" width="100%" height="100"/>
-</div>
+
