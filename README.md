@@ -64,5 +64,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanmetta&&theme=radical" alt="lavanmetta" /></p>
 
+<div>
+<p> ![Alt text] <img src="https://spotify-recently-played-readme.vercel.app/api?user=a8o4woci8zkcozjqg0l63257g" alt="spotify" /> </p>
+</div>
+
+
 
 <img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
