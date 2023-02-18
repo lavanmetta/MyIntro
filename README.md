@@ -2,21 +2,21 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/ajay-84sia">Lavan Metta 💻</a>!
 </h1> 
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanmetta&label=Profile%20views&color=0e75b6&style=flat" alt="lavanmetta" />
-</p>
+
 
 <p align="right">
 <a href="https://linkedin.com/in/lavan metta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavan metta" height="30" width="40" /></a>
 <a href="https://instagram.com/lavan_metta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavan_metta" height="30" width="40" /></a>
 </p>
-- 🤝 Connect with me =>
+
 
 - 🌱 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **react html css**
 
 - 📫 How to reach me **lavanmetta111@gmail.com**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanmetta&label=Profile%20views&color=0e75b6&style=flat" alt="lavanmetta" />
+</p>
 
 
 <h3 align="center" margin="30px">Languages</h3>
