@@ -7,6 +7,8 @@
 <p align="right">
 <a href="https://linkedin.com/in/lavan metta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavan metta" height="30" width="40" /></a>
 <a href="https://instagram.com/lavan_metta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavan_metta" height="30" width="40" /></a>
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=lavanmetta&label=Profile%20views&color=0e75b6&style=flat" alt="lavanmetta" />
+</p>
 </p>
 
 
@@ -15,8 +17,7 @@
 - 💬 Ask me about **react html css**
 
 - 📫 How to reach me **lavanmetta111@gmail.com**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanmetta&label=Profile%20views&color=0e75b6&style=flat" alt="lavanmetta" />
-</p>
+
 
 
 <h3 align="center" margin="30px">Languages</h3>
