@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm lavan metta</h1>
+<h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/ajay-84sia">Lavan Metta 💻</a>!
+</h1> 
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanmetta&label=Profile%20views&color=0e75b6&style=flat" alt="lavanmetta" />
-[![GitHub contributors](https://img.shields.io/github/contributors/lavanmetta/badges.svg)](https://GitHub.com/lavanmetta/badges/graphs/contributors/)
+
 </p>
 
 - 🌱 I’m currently learning **Reactjs**
@@ -40,6 +42,19 @@
   <kbd>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
   </kbd>
+  
+    <div align="center"><h3 align="center">Tools</h3> 
+<!--    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/> -->
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <br/>
+<!--    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/> -->
+<!--     <img src='https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white' align='center' alt='storybook' /> -->
+  </div>
   
 <p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lavanmetta&show_icons=true&locale=en&layout=compact&theme=radical" alt="lavanmetta" />
 </p> 
