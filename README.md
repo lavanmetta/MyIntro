@@ -71,4 +71,4 @@
 
 
 
-<img align="center" src="https://github.com/lavanmetta/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+<img align="center" src="https://github.com/lavanmetta/lavanmetta/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
