@@ -19,7 +19,7 @@
 <a href="https://instagram.com/lavan_metta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavan_metta" height="30" width="40" /></a>
 </p>
 
-<h3 align="center" margin="30px">Languages and Tools:</h3>
+<h3 align="center" margin="30px">Languages</h3>
 <p align="center" > <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <kbd>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -51,11 +51,11 @@
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
    <br/>
-  &nbsp;
+ 
    <br/>
   </div>
   
-<p align="center">&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lavanmetta&show_icons=true&locale=en&layout=compact&theme=radical" alt="lavanmetta" />
+<p align="center">&nbsp;  &nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lavanmetta&show_icons=true&locale=en&layout=compact&theme=radical" alt="lavanmetta" />
 </p> 
 
 
