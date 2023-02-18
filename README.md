@@ -6,10 +6,10 @@
 </p>
 
 <p align="right">
-- 🤝 Connect with me:
 <a href="https://linkedin.com/in/lavan metta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavan metta" height="30" width="40" /></a>
 <a href="https://instagram.com/lavan_metta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavan_metta" height="30" width="40" /></a>
 </p>
+- 🤝 Connect with me =>
 
 - 🌱 I’m currently learning **Reactjs**
 
