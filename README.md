@@ -65,8 +65,9 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanmetta&&theme=radical" alt="lavanmetta" /></p>
 
 <div>
-<p align="left">  <img width="320"  align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=a8o4woci8zkcozjqg0l63257g" alt="spotify" /> </p>
+<p align="left"> &nbsp;  <img width="320"  align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=a8o4woci8zkcozjqg0l63257g" alt="spotify" /> </p>
  <img  align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="320" height="260"/>
+   &nbsp;
 </div>
 
 
