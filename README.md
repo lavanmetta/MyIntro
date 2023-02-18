@@ -51,9 +51,10 @@
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
    <br/>
+   <br/>
   </div>
   
-<p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lavanmetta&show_icons=true&locale=en&layout=compact&theme=radical" alt="lavanmetta" />
+<p align="center">&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lavanmetta&show_icons=true&locale=en&layout=compact&theme=radical" alt="lavanmetta" />
 </p> 
 
 
