@@ -65,7 +65,8 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanmetta&&theme=radical" alt="lavanmetta" /></p>
 
 <div>
-<p> ![Alt text] <img src="https://spotify-recently-played-readme.vercel.app/api?user=a8o4woci8zkcozjqg0l63257g" alt="spotify" /> </p>
+<p align="left">  <img src="https://spotify-recently-played-readme.vercel.app/api?user=a8o4woci8zkcozjqg0l63257g" alt="spotify" /> </p>
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
 </div>
 
 
