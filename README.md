@@ -5,8 +5,8 @@
 
 
 <p align="right">
-<a href="https://linkedin.com/in/lavan metta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavan metta" height="30" width="40" /></a>
-<a href="https://instagram.com/lavan_metta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavan_metta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lavan metta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavan metta" height="20" width="30" /></a>
+<a href="https://instagram.com/lavan_metta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavan_metta" height="20" width="30" /></a>
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=lavanmetta&label=Profile%20views&color=0e75b6&style=flat" alt="lavanmetta" />
 </p>
 </p>
