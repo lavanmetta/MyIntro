@@ -66,7 +66,7 @@
 
 <div>
 <p align="left">  <img width="300"  align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=a8o4woci8zkcozjqg0l63257g" alt="spotify" /> </p>
- <img src="https://media3.giphy.com/media/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt/giphy.gif" width="300"/>
+ <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300"/>
 </div>
 
 
