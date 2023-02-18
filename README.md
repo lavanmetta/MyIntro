@@ -39,10 +39,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
   </kbd>
   
-<p><img align="center" margin-top="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lavanmetta&show_icons=true&locale=en&layout=radical" alt="lavanmetta" />
+<p align="center"><img align="center" margin-top="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lavanmetta&show_icons=true&locale=en&layout=radical" alt="lavanmetta" />
 </p> 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavanmetta&show_icons=true&locale=en" alt="lavanmetta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavanmetta&show_icons=true&locale=en&layout=radical" alt="lavanmetta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanmetta&" alt="lavanmetta" /></p>
