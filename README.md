@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm lavan metta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanmetta&label=Profile%20views&color=0e75b6&style=flat" alt="lavanmetta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanmetta&label=Profile%20views&color=0e75b6&style=flat" alt="lavanmetta" />
+[![GitHub contributors](https://img.shields.io/github/contributors/lavanmetta/badges.svg)](https://GitHub.com/lavanmetta/badges/graphs/contributors/)
+</p>
 
 - 🌱 I’m currently learning **Reactjs**
 
